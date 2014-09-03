@@ -39,7 +39,8 @@ public class Quadilateral extends Line {
         double x,y,max = 0;
         for(int i = 0; i<4; i++)
          {
-             /*Need to apply Paithogorus theoram here, 
+             /*
+             Need to apply Paithogorus theoram here, 
              x = (x1-x2)^2
              y = (y1-y2)^2
              */
