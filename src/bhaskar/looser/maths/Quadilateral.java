@@ -9,6 +9,7 @@ package bhaskar.looser.maths;
  *
  * @author 360758 Anil Bhaskar
  */
+/*A comment added*/
 public class Quadilateral extends Line {
 
     /**
