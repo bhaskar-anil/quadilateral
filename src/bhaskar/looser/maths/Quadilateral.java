@@ -57,10 +57,6 @@ public class Quadilateral extends Line {
         return max;
     }
 
-    public static void main(String[] args) {
-        System.out.println("hi there");
-            Quadilateral quad = new Quadilateral(new Line(origin, new Point(2, 7)), new Line(new Point(2, 7), new Point(9, 8)), new Line(new Point(9, 8), new Point(8, 1)), new Line(new Point(8, 1), origin));
-            System.out.println("The longest line is: "+quad.longestLine(quad));;
-    }
+    
 
 }
